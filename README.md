@@ -11,7 +11,12 @@ To play the game:
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris  
+
+
+
+
+
 一、标题写法：
 第一种方法：
 1、在文本下面加上 等于号 = ，那么上方的文本就变成了大标题。等于号的个数无限制，但一定要大于0个哦。。
